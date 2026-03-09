@@ -1,0 +1,44 @@
+body {
+    margin: auto;
+    width: 1200px;
+    background-color: #F5F5F5;
+}
+
+#navbarNavAltMarkup{
+    background-color: #306b64;
+    padding: 20px;
+    text-indent: 50px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.carousel-inner{
+    width: 700px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.Header{
+    text-align: center;
+    padding: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+
+.Announcement{
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+
+.card-body{
+    background-color: #aeccc0;
+    height: 200px;
+    padding: 35px;
+    margin: 40px;
+}
+
+.Contact{
+    margin: 50px;
+}
